@@ -8,9 +8,8 @@ url for the website: https://www.mohfw.gov.in/
 ## required packages to run the script are: 
  - pandas
  
- ## It scrapes the following table from the website:
- ---------------------------------------------------
- 
+ It scrapes the following table from the website:
+
 |S. No.|Name of State / UT|Total Confirmed cases (Including 111 foreign Nationals)|Cured/Discharged/Migrated|Deaths ( more than 70% cases due to comorbidities )|
 |--- |--- |--- |--- |--- |
 |1|Andaman and Nicobar Islands|33|32|0|
