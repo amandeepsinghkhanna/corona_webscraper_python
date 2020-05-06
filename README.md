@@ -1,5 +1,4 @@
 # Covid-19 web scrapper:
-------------------------
 
 Since, there were many fake covid-19 trackers in India. This python scripts scrapes the covid-19 **infected**, **recovered** and **deaths**  information from the Indian government's ministry of health and family welfare in India website. When scheduled to run once a day it can gather data for epedemic modelling for the covid-19 cases in India.
 
